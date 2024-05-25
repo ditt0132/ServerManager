@@ -1,7 +1,0 @@
-{
-    "values": [
-        "example_pack:onoff/managercreate",
-        "example_pack:onoff/managerset",
-        "example_pack:debug/init_scores"
-    ]
-}
