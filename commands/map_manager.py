@@ -7,7 +7,7 @@ from logger import *
 
 class ApplyMapCommand(BaseCommand):
     name = "map"
-    args = [{"name": "서버 이름", "type": str, "required": True},
+    args_def = [{"name": "서버 이름", "type": str, "required": True},
             {"name": "맵 주소", "type": str, "required": True}]
     alias = ["m", "applymap", "loadmap"]
 
