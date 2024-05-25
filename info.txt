@@ -1,0 +1,1 @@
+{"type": "vanilla", "version": "1.20.1", "creationDate": 1716610156.9938483, "java": null}

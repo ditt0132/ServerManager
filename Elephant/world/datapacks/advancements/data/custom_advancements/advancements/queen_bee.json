@@ -1,0 +1,25 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Meet the Queen",
+            "color": "white"
+        },
+        "description": {
+            "text": "Stand near the Queen Bee!"
+        },
+        "icon": {
+            "item": "minecraft:honey_block"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "custom_advancements:yellow_glazed"
+}

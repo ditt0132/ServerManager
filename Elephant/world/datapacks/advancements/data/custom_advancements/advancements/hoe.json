@@ -1,0 +1,25 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "YOU GOT IT!",
+            "color": "white"
+        },
+        "description": {
+            "text": "It's a magical hoe."
+        },
+        "icon": {
+            "item": "minecraft:diamond_hoe"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "custom_advancements:out_of_bounds"
+}

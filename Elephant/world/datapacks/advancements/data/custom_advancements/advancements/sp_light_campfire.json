@@ -1,0 +1,25 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Pyromaniac!",
+            "color": "white"
+        },
+        "description": {
+            "text": "I need fire, fast! Light the campfire in under 180 seconds!"
+        },
+        "icon": {
+            "item": "minecraft:fire_charge"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "custom_advancements:campfire"
+}

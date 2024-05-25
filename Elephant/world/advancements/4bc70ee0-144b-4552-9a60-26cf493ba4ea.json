@@ -1,0 +1,147 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-05-25 13:21:24 +0900"
+    },
+    "done": true
+  },
+  "custom_advancements:root": {
+    "criteria": {
+      "impossible": "2024-05-25 13:21:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-05-25 13:21:32 +0900"
+    },
+    "done": true
+  },
+  "custom_advancements:stick": {
+    "criteria": {
+      "impossible": "2024-05-25 13:21:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-05-25 13:21:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-05-25 13:21:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-05-25 13:21:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-05-25 13:21:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-05-25 13:21:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-05-25 13:21:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:ocean": "2024-05-25 13:21:48 +0900"
+    },
+    "done": false
+  },
+  "custom_advancements:bye_ocean": {
+    "criteria": {
+      "impossible": "2024-05-25 13:33:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-05-25 13:33:20 +0900"
+    },
+    "done": true
+  },
+  "custom_advancements:bow": {
+    "criteria": {
+      "impossible": "2024-05-25 13:33:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-05-25 13:33:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2024-05-25 13:34:13 +0900"
+    },
+    "done": true
+  },
+  "custom_advancements:yellow_glazed": {
+    "criteria": {
+      "impossible": "2024-05-25 13:40:51 +0900"
+    },
+    "done": true
+  },
+  "custom_advancements:campfire": {
+    "criteria": {
+      "impossible": "2024-05-25 13:42:40 +0900"
+    },
+    "done": true
+  },
+  "custom_advancements:gray_glazed": {
+    "criteria": {
+      "impossible": "2024-05-25 13:52:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-05-25 13:52:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-05-25 13:52:59 +0900"
+    },
+    "done": true
+  },
+  "custom_advancements:red_glazed": {
+    "criteria": {
+      "impossible": "2024-05-25 14:31:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-05-25 14:42:14 +0900"
+    },
+    "done": true
+  },
+  "custom_advancements:light_blue_glazed": {
+    "criteria": {
+      "impossible": "2024-05-25 14:29:39 +0900"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

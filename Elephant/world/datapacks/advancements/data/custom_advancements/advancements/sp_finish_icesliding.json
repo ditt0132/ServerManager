@@ -1,0 +1,25 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "I am in a Hurry! Push!",
+            "color": "white"
+        },
+        "description": {
+            "text": "Finish the ice sliding puzzle in under 250 seconds!"
+        },
+        "icon": {
+            "item": "minecraft:packed_ice"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "custom_advancements:gray_glazed"
+}
